@@ -1,4 +1,4 @@
-import prisma from '@util/prisma';
+import { prisma } from '@util/prisma';
 
 import { NextRequest, NextResponse } from 'next/server';
 
